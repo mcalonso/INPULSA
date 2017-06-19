@@ -1,0 +1,10 @@
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.exe.config
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.exe
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.pdb
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\SerialTranslate.exe
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\SerialTranslate.pdb
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.exe.config
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\obj\Release\SerialTranslate.exe
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\obj\Release\SerialTranslate.pdb
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.exe
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.pdb

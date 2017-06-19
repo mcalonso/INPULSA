@@ -1,0 +1,11 @@
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\SerialTranslate.exe.config
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\SerialTranslate.exe
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\SerialTranslate.pdb
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\SerialTranslate.exe
+C:\Users\Esgar\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\SerialTranslate.pdb
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\bin\Debug\SerialTranslate.exe.config
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\obj\Debug\SerialTranslate.exe
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\obj\Debug\SerialTranslate.pdb
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\bin\Debug\SerialTranslate.exe
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\bin\Debug\SerialTranslate.pdb
+C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
