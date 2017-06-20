@@ -8,3 +8,6 @@ C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication
 C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\obj\Release\SerialTranslate.pdb
 C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.exe
 C:\Users\Esgar\Desktop\Practicas In-pulsa\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.pdb
+C:\Users\Esgar\Documents\INPULSA\ConsoleApplication2\ConsoleApplication2\bin\Release\SerialTranslate.exe.config
+C:\Users\Esgar\Documents\INPULSA\ConsoleApplication2\ConsoleApplication2\obj\Release\SerialTranslate.exe
+C:\Users\Esgar\Documents\INPULSA\ConsoleApplication2\ConsoleApplication2\obj\Release\SerialTranslate.pdb
